@@ -1,0 +1,15 @@
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-20241119_130701.cfg
+printer-20241119_131512.cfg
+printer-20241119_131709.cfg
+printer-20241119_134914.cfg
+printer-20241119_172252.cfg
+printer-20241120_080424.cfg
+printer-20241120_081107.cfg
+*.bak
+.moonraker.conf.bkp
+*.csv
+*.zip
